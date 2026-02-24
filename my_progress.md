@@ -8,3 +8,14 @@
 ## my next step for today / tomorrow
 - build easy bot in TG to undestand how some things work
 - in this case I gonna ask LLM model for explanation how create tg bot without paid API
+
+## The template of daily progress journal
+Date:
+Working time: 
+What was done today:
+
+What didn't work / Where I got stuck:
+Plan for tomorrow:
+Mood:
+Notes / Insights:
+
