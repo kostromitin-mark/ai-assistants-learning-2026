@@ -24,7 +24,6 @@ String variable sys.executable and it showed me path to the executable Python fi
 
 
 Date: 25.02.26
-Working time: 
 What was done today: In my practice I learned about the sys module, I used string variable sys.executable
 
 What didn't work / Where I got stuck: All good
@@ -43,3 +42,15 @@ CommandHandler - catch messages starts from '/'. When user write a command start
 MessageHandler - listener for regular messages. It's function or class responds to incoming messages.
 filters - list of filters. we could say to it which exact messages we need. For example filters.TEXT, filters.PHOTO, filters.COMMAND.
 ContextTypes - techniqual thing which helps to indicate data types in functions correctly.
+
+Date: 25.02.26
+What was done today: Got a token from BotFather
+Inserted a token to Python file
+It's working and returns my messages 
+Next step: protect a token before push it 
+
+
+Date: 25.02.26
+What didn't work / Where I got stuck: I stuck when tried to run command /help. I named file apifile.env instead of simple .env. That's why library python-dotenv didn't see it. 
+What was done today: Renamed apifile.env to .env and now dotenv is reading BOT_TOKEN correctly 
+Next step: Working on next bot
