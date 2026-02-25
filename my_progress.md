@@ -54,3 +54,22 @@ Date: 25.02.26
 What didn't work / Where I got stuck: I stuck when tried to run command /help. I named file apifile.env instead of simple .env. That's why library python-dotenv didn't see it. 
 What was done today: Renamed apifile.env to .env and now dotenv is reading BOT_TOKEN correctly 
 Next step: Working on next bot
+
+Date: 25.02.26
+Good advice:
+When asking for help, provide:
+    What you are trying to achieve
+    Exact error message
+    Full code (use pastebin.com or gist.github.com)
+    What you already tried
+    Python version + operating system
+
+What was done: I started to learn  https://automatetheboringstuff.com/ to understand how Python works while I'm working on telegram bots, I finished 1st part Python Basics
+What didn't work / Where I got stuck: I failed 3 exercises
+
+Note: After the test I should keep in mind that:
+
+    -An expression is made up of values, operators, and possibly function calls (and parentheses). All expressions evaluate (reduce) to a single value.
+    - adding of value does not change the variable unless you use assignment =
+    - An expression evaluates to a single value, A statement is a complete instruction that does something
+
