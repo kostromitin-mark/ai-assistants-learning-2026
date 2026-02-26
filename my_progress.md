@@ -64,7 +64,7 @@ When asking for help, provide:
     What you already tried
     Python version + operating system
 
-What was done: I started to learn  https://automatetheboringstuff.com/ to understand how Python works while I'm working on telegram bots, I finished 1st part Python Basics
+What was done: I started to learn  https://automatetheboringstuff.com/ (next Python book) to understand how Python works while I'm working on telegram bots, I finished 1st part Python Basics
 What didn't work / Where I got stuck: I failed 3 exercises
 
 Note: After the test I should keep in mind that:
@@ -72,4 +72,10 @@ Note: After the test I should keep in mind that:
     -An expression is made up of values, operators, and possibly function calls (and parentheses). All expressions evaluate (reduce) to a single value.
     - adding of value does not change the variable unless you use assignment =
     - An expression evaluates to a single value, A statement is a complete instruction that does something
+
+Plan for today/tomorrow: Explore 2nd chapter of Python book
+
+Date: 26.02.26 
+What was done: Learned 2nd chapter of Python book, completed exercises on understanding if-else and flow control
+Next step: start to build telegram bot with CrewAI framework
 
